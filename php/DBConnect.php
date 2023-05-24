@@ -13,7 +13,7 @@
 class DBConnect {
     private $db = NULL;
 
-    const DB_SERVER = "192.168.20.108";
+    const DB_SERVER = "192.168.20.126";
     const DB_USER = "root";
     const DB_PASSWORD = "";
     const DB_NAME = "donor";
